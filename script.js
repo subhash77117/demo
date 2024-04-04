@@ -1,5 +1,9 @@
-console.log( "i am in the js file")
+console.log("hello ji js is ok or not");
+ let jadu=document.getElementsByClassName('para');
+ jadu.innerHTML='pink';
 
-const addText=document.querySelectorAll(".para");
-addText.style.color='red';
+
+
+
+   
 
